@@ -1,6 +1,6 @@
 # Automated Detection and Classification of Arrhythmias in ECG Signals
 
-> A machine learning pipeline for automated cardiac arrhythmia detection from 12-lead ECG signals, developed at Amrita Vishwa Vidhyapeetham, Coimbatore.
+> A machine learning pipeline for automated cardiac arrhythmia detection from 12-lead ECG signals.
 
 ---
 

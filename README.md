@@ -11,7 +11,6 @@
 - [Pipeline](#pipeline)
 - [Algorithms](#algorithms)
 - [Results](#results)
-- [Authors](#authors)
 - [References](#references)
 
 ---
@@ -112,21 +111,6 @@ Models are trained on extracted features and evaluated using **Accuracy, Precisi
 - Random Forest showed the best balance of precision/recall for multi-class classification
 - All supervised models performed well on common rhythms (NSR, SB) but struggled with minority classes (SVT, VFib) due to class imbalance
 - K-Means (k=3) successfully separated ECG clusters, validating the natural structure of the data
-
----
-
-
-## Authors
-
-| Name | Email |
-|---|---|
-| Gowri Shankar A B | cb.en.u4cce23001@cb.students.amrita.edu |
-| Mugilan S S | cb.en.u4cce23026@cb.students.amrita.edu |
-| Dinesh Karthik V | cb.en.u4cce23008@cb.students.amrita.edu |
-| Duvvuru Akshaya Saketh Reddy | cb.en.u4cce23011@cb.students.amrita.edu |
-
-**Department of Electronics and Communication**  
-Amrita Vishwa Vidhyapeetham, Coimbatore
 
 ---
 
